@@ -90,7 +90,7 @@ This script automatically:
 
 ## 📷 Example Result
 
-*(Insert example image before/after with predicted mask)*
+![alt text 1](image1.jpg) ![alt text 2](image2.png)
 
 ---
 
